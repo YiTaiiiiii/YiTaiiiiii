@@ -10,8 +10,8 @@
     <td>
       <a href="https://github.com/YiTaiiiiii/pagelet-translate"><b>原页 · Pagelet</b></a>
       &nbsp;<a href="https://github.com/YiTaiiiiii/pagelet-translate/releases/latest"><img src="https://img.shields.io/github/v/release/YiTaiiiiii/pagelet-translate?label=&color=3346c9" alt="最新版本"></a><br>
-      整页阅读翻译的 Chrome 扩展：在原网页上双语对照或只看译文，用你自己的模型 API。<br>
-      <sub>A Chrome extension that translates whole web pages in place with your own LLM API.</sub>
+      用你自己的大模型 API 翻译整个网页的 Chrome 扩展。译文直接显示在原网页上，可以双语对照，也可以只看译文。<br>
+      <sub>A Chrome extension that translates whole web pages with your own LLM API, right on the page: next to the original, or on its own.</sub>
     </td>
   </tr>
 </table>
