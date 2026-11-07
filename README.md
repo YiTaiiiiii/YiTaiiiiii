@@ -4,8 +4,8 @@
 
 ### [原页 · Pagelet](https://github.com/YiTaiiiiii/pagelet-translate)
 
-使用模型 API 的网页翻译扩展<br>
-<sub>A web page translation extension that uses your model API</sub>
+使用 LLM API 的网页翻译扩展<br>
+<sub>A web page translation extension that uses an LLM API</sub>
 
 <a href="https://github.com/YiTaiiiiii/pagelet-translate"><img src="https://raw.githubusercontent.com/YiTaiiiiii/pagelet-translate/main/docs/images/demo.gif" width="720" alt="原页翻译网页的演示"></a>
 
